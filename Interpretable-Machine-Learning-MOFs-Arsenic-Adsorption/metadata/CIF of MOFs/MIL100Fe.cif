@@ -1,0 +1,321 @@
+####################################################################### 
+# 
+# This file contains crystal structure data downloaded from the 
+# Cambridge Structural Database (CSD) hosted by the Cambridge 
+# Crystallographic Data Centre (CCDC).
+# 
+# Full information about CCDC data access policies and citation 
+# guidelines are available at http://www.ccdc.cam.ac.uk/access/V1 
+# 
+# Audit and citation data items may have been added by the CCDC. 
+# Please retain this information to preserve the provenance of 
+# this file and to allow appropriate attribution of the data. 
+# 
+#######################################################################
+
+data_MIL100(Fe)
+_audit_block_doi                 10.5517/ccphjg4
+_database_code_depnum_ccdc_archive 'CCDC 640536'
+loop_
+_citation_id
+_citation_doi
+_citation_year
+1 10.1039/b704325b 2007
+_audit_update_record             
+;
+2007-03-14 deposited with the CCDC.	2023-06-17 downloaded from the CCDC.
+;
+
+#=============================================================================
+
+# 5. CHEMICAL DATA
+
+_chemical_name_systematic        
+; ?
+;
+_chemical_name_common            MIL100(Fe)
+_chemical_formula_moiety         Fe3OF(H2O)2[C6H3(CO2)3]2.12.5H2O
+_chemical_formula_structural     ?
+_chemical_formula_analytical     ?
+_chemical_formula_iupac          ?
+_chemical_formula_sum            ?
+_chemical_formula_weight         878
+_chemical_melting_point          ?
+_chemical_compound_source        ? # for minerals and
+# natural products
+
+loop_
+_atom_type_symbol
+_atom_type_scat_Cromer_Mann_a1
+_atom_type_scat_Cromer_Mann_b1
+_atom_type_scat_Cromer_Mann_a2
+_atom_type_scat_Cromer_Mann_b2
+_atom_type_scat_Cromer_Mann_a3
+_atom_type_scat_Cromer_Mann_b3
+_atom_type_scat_Cromer_Mann_a4
+_atom_type_scat_Cromer_Mann_b4
+_atom_type_scat_Cromer_Mann_c
+_atom_type_scat_dispersion_real
+_atom_type_scat_dispersion_imag
+_atom_type_scat_source
+fe 11.76950 4.76110 7.35730 0.30720 3.52220 15.35350 2.30450 76.88050 1.03690
+26.37000 1.14000
+International_Tables_for_Crystallography_Vol.C(1991)_Tables_6.1.1.4_and_6.1.1.5
+o 3.04850 13.27710 2.28680 5.70110 1.54630 0.32390 0.86700 32.90890 0.25080
+8.01000 0.07940
+International_Tables_for_Crystallography_Vol.C(1991)_Tables_6.1.1.4_and_6.1.1.5
+c 2.31000 20.84390 1.02000 10.20750 1.58860 0.56870 0.86500 51.65120 0.21560
+6.00000 0.02120
+International_Tables_for_Crystallography_Vol.C(1991)_Tables_6.1.1.4_and_6.1.1.5
+
+#=============================================================================
+
+# 6. POWDER SPECIMEN AND CRYSTAL DATA
+
+_symmetry_cell_setting           Cubic
+_symmetry_space_group_name_H-M   'F D -3 M'
+_symmetry_space_group_name_Hall  '-F 4vw 2vw 3'
+
+
+_cell_length_a                   73.34019
+_cell_length_b                   73.34019
+_cell_length_c                   73.34019
+_cell_angle_alpha                90.00000
+_cell_angle_beta                 90.00000
+_cell_angle_gamma                90.00000
+_cell_volume                     394480.96900
+_cell_formula_units_Z            ?
+_cell_measurement_temperature    80K
+_cell_special_details            
+;
+;
+# The next three fields give the specimen dimensions in mm. The equatorial
+# plane contains the incident and diffracted beam.
+
+_pd_spec_size_axial              ? # perpendicular to
+# equatorial plane
+_pd_spec_size_equat              ? # parallel to
+# scattering vector
+# in transmission
+_pd_spec_size_thick              ? # parallel to
+# scattering vector
+# in reflection
+
+# The next five fields are character fields that describe the specimen.
+
+_pd_spec_mounting                'Borosilicate Capillaries'
+_pd_spec_mount_mode              Transmission
+_pd_spec_shape                   Cylinder
+
+_pd_char_particle_morphology     ?
+_pd_char_colour                  ? # use ICDD colour descriptions
+
+# The following three fields describe the preparation of the specimen.
+# The cooling rate is in K/min. The pressure at which the sample was
+# prepared is in kPa. The temperature of preparation is in K.
+
+_pd_prep_cool_rate               360
+_pd_prep_pressure                ?
+_pd_prep_temperature             ?
+
+# The next four fields are normally only needed for transmission experiments.
+
+_exptl_absorpt_coefficient_mu    ?
+_exptl_absorpt_correction_type   ?
+_exptl_absorpt_process_details   ?
+_exptl_absorpt_correction_T_min  ?
+_exptl_absorpt_correction_T_max  ?
+
+#=============================================================================
+
+# 7. EXPERIMENTAL DATA
+
+_exptl_special_details           
+;
+;
+
+# The following item is used to identify the equipment used to record
+# the powder pattern when the diffractogram was measured at a laboratory
+# other than the authors' home institution, e.g. when neutron or synchrotron
+# radiation is used.
+
+_pd_instr_location               'ID31- ESRF'
+
+_pd_calibration_special_details  Si
+
+_diffrn_ambient_temperature      80K
+_diffrn_source                   'synchrotron source from undulator device'
+_diffrn_radiation_type           X-ray
+_diffrn_radiation_wavelength     0.80098(5)
+_diffrn_source_target            ?
+_diffrn_radiation_monochromator  'DOUBLE SI(111)'
+_diffrn_measurement_device_type  ?
+_diffrn_measurement_method       ?
+_diffrn_detector_area_resol_mean ? # Not in version 2.0.1
+_diffrn_detector_type            SCINTILLATOR
+
+
+# The following four items give details of the measured (not processed)
+# powder pattern. Angles are in degrees.
+
+_pd_meas_number_of_points        19017
+_pd_meas_2theta_range_min        0.91500
+_pd_meas_2theta_range_max        57.96300
+_pd_meas_2theta_range_inc        0.003000
+
+#=============================================================================
+
+# 8. REFINEMENT DATA
+
+_refine_special_details          
+;
+;
+# Use the next field to give any special details about the fitting of the
+# powder pattern.
+
+_pd_proc_ls_special_details      
+;
+;
+
+# The next three items are given as text.
+
+_pd_proc_ls_profile_function     'pearson VII'
+_pd_proc_ls_background_function  experimental
+_pd_proc_ls_pref_orient_corr     'not applied'
+_pd_proc_ls_prof_R_factor        11.9946
+_pd_proc_ls_prof_wR_factor       16.1415
+_pd_proc_ls_prof_wR_expected     5.7313
+
+# The following profile R-factors are CORRECTED for background
+# The sum is extended to all non-excluded points.
+# These items are not in the current CIF standard, but are defined above
+
+_pd_proc_ls_prof_cR_factor       22.6417
+_pd_proc_ls_prof_cwR_factor      24.6073
+_pd_proc_ls_prof_cwR_expected    8.7372
+
+# The following items are not in the CIF standard, but are defined above
+
+_pd_proc_ls_prof_chi2            7.9320
+_pd_proc_ls_prof_echi2           7.9951
+
+# Items related to LS refinement
+
+_refine_ls_R_I_factor            12.9275
+_refine_ls_number_reflns         16941
+_refine_ls_number_parameters     229
+_refine_ls_number_restraints     162
+
+# The following four items apply to angular dispersive measurements.
+# 2theta minimum, maximum and increment (in degrees) are for the
+# intensities used in the refinement.
+
+_pd_proc_2theta_range_min        0.9092
+_pd_proc_2theta_range_max        57.9572
+_pd_proc_2theta_range_inc        0.003000
+_pd_proc_wavelength              0.801682
+
+_pd_block_diffractogram_id       ? # The id used for the block containing
+# the powder pattern profile (section 11)
+
+# Give appropriate details in the next two text fields.
+
+_pd_proc_info_excluded_regions   none
+_pd_proc_info_data_reduction     none
+
+# The following items are used to identify the programs used.
+
+_computing_data_collection       ?
+_computing_structure_solution    'from coordinates of MIL-100(Cr)'
+_computing_structure_refinement  FULLPROF
+_computing_molecular_graphics    ?
+_computing_publication_material  ?
+
+#=============================================================================
+
+# 9. ATOMIC COORDINATES AND DISPLACEMENT PARAMETERS
+
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+_atom_site_adp_type # Not in version 2.0.1
+_atom_site_type_symbol
+Fe1 0.16042(17) 0.08958(17) 0.0572(2) 0.00000 1.00000 Uiso Fe
+Fe2 0.37500 0.1552(2) 0.87500 0.00000 1.00000 Uiso Fe
+Fe3 0.10905(16) 0.10905(16) 0.8642(2) 0.00000 1.00000 Uiso Fe
+Fe4 0.06841(16) 0.18158(16) 0.9640(2) 0.00000 1.00000 Uiso Fe
+Fe5 0.29760(19) 0.05702(18) 0.02406(17) 0.00000 1.00000 Uiso Fe
+Fe6 0.07612(14) 0.25000 0.82612(14) 0.00000 1.00000 Uiso Fe
+Fe7 0.98657(18) 0.16078(17) 0.86708(17) 0.00000 1.00000 Uiso Fe
+O1 0.3300(11) 0.9200(11) 0.4200(11) 0.00000 1.00002 Uiso O
+O2 0.37500 0.1284(4) 0.87500 0.00000 1.00000 Uiso O
+O3 0.0504(3) 0.1996(3) 0.9564(12) 0.00000 1.00000 Uiso O
+O4 0.0945(2) 0.25000 0.8445(2) 0.00000 1.00000 Uiso O
+O5 0.2040(4) 0.0671(3) 0.0926(6) 0.00000 1.00000 Uiso O
+O6 0.8845(4) 0.9130(6) 0.8160(5) 0.00000 1.00000 Uiso O
+O7 0.0905(3) 0.9005(3) 0.8782(7) 0.00000 1.00000 Uiso O
+O8 0.1503(6) 0.8782(4) 0.8506(5) 0.00000 1.00000 Uiso O
+O9 0.1205(3) 0.9104(4) 0.8832(5) 0.00000 1.00000 Uiso O
+O10 0.1936(3) 0.9836(5) 0.0793(7) 0.00000 1.00000 Uiso O
+O11 0.0518(6) 0.9363(5) 0.8387(5) 0.00000 1.00000 Uiso O
+O12 0.2199(6) 0.9720(5) 0.0729(7) 0.00000 1.00000 Uiso O
+O13 0.2147(3) 0.9641(7) 0.0130(5) 0.00000 1.00000 Uiso O
+O14 0.0715(5) 0.9768(5) 0.7942(6) 0.00000 1.00000 Uiso O
+O15 0.0576(8) 0.9640(4) 0.8291(5) 0.00000 1.00000 Uiso O
+O16 0.1575(3) 0.9936(7) 0.8063(6) 0.00000 1.00000 Uiso O
+O17 0.1781(8) 0.9728(3) 0.8286(5) 0.00000 1.00000 Uiso O
+O18 0.1317(4) 0.0068(5) 0.8132(4) 0.00000 1.00000 Uiso O
+O19 0.1707(6) 0.9648(4) 0.8556(3) 0.00000 1.00000 Uiso O
+O20 0.1377(3) 0.9764(6) 0.8700(6) 0.00000 1.00000 Uiso O
+O21 0.1215(6) 0.9925(5) 0.8500(6) 0.00000 1.00000 Uiso O
+O22 0.1503(5) 0.0997(5) 0.0335(4) 0.00000 1.00000 Uiso O
+O23 0.37500 0.1823(4) 0.87500 0.00000 1.00000 Uiso O
+O24 0.0940(3) 0.0940(3) 0.85000 0.00000 1.00000 Uiso O
+O25 0.0856(3) 0.1644(3) 0.9766(5) 0.00000 1.00000 Uiso O
+O26 0.3010(6) 0.0665(7) 0.9993(4) 0.00000 1.00000 Uiso O
+O27 0.0572(3) 0.25000 0.8074(3) 0.00000 1.00000 Uiso O
+O28 0.9755(5) 0.1637(5) 0.8911(3) 0.00000 1.00000 Uiso O
+C1 0.2422(6) 0.0078(6) 0.9835(9) 0.00000 1.00000 Uiso C
+C2 0.2604(4) 0.0133(5) 0.9896(4) 0.00000 1.00000 Uiso C
+C3 0.2321(5) 0.9683(8) 0.0179(5) 0.00000 1.00000 Uiso C
+C4 0.3528(10) 0.8972(10) 0.3286(11) 0.00000 1.00000 Uiso C
+C5 0.3366(10) 0.9134(10) 0.3607(11) 0.00000 1.00000 Uiso C
+C6 0.3285(8) 0.9215(8) 0.3764(7) 0.00000 1.00000 Uiso C
+C8 0.1704(10) 0.9009(3) 0.8240(3) 0.00000 1.00000 Uiso C
+C9 0.1733(9) 0.9156(3) 0.8103(2) 0.00000 1.00000 Uiso C
+C11 0.1071(3) 0.1429(3) 0.8435(9) 0.00000 1.00000 Uiso C
+C7 0.0927(4) 0.1573(4) 0.8352(12) 0.00000 1.00000 Uiso C
+C10 0.0664(7) 0.1836(7) 0.8214(14) 0.00000 1.00000 Uiso C
+C12 0.1741(12) 0.9603(2) 0.8398(4) 0.00000 1.00000 Uiso C
+C14 0.2324(3) 0.0425(6) 0.0931(10) 0.00000 1.00000 Uiso C
+C15 0.2195(4) 0.0041(5) 0.0847(11) 0.00000 1.00000 Uiso C
+C18 0.19811(17) 0.05189(17) 0.0978(6) 0.00000 1.00000 Uiso C
+C13 0.2129(2) 0.0371(2) 0.0930(11) 0.00000 1.00000 Uiso C
+C16 0.2398(5) 0.0102(5) 0.0809(15) 0.00000 1.00000 Uiso C
+C17 0.2106(2) 0.9854(5) 0.0789(12) 0.00000 1.00000 Uiso C
+C20 0.0897(5) 0.9663(3) 0.8523(9) 0.00000 1.00000 Uiso C
+C22 0.1116(7) 0.9467(4) 0.8720(8) 0.00000 1.00000 Uiso C
+C19 0.0782(6) 0.9492(4) 0.8499(7) 0.00000 1.00000 Uiso C
+C23 0.0991(4) 0.9309(3) 0.8683(8) 0.00000 1.00000 Uiso C
+C24 0.0806(4) 0.9330(6) 0.8612(9) 0.00000 1.00000 Uiso C
+C21 0.1082(4) 0.9633(4) 0.8612(9) 0.00000 1.00000 Uiso C
+C25 0.1036(4) 0.9129(5) 0.8767(10) 0.00000 1.00000 Uiso C
+C26 0.1230(6) 0.9783(6) 0.8608(9) 0.00000 1.00000 Uiso C
+C27 0.0622(6) 0.9495(5) 0.8381(9) 0.00000 1.00000 Uiso C
+C28 0.0253(11) 0.2247(11) 0.8582(5) 0.00000 1.00000 Uiso C
+C30 0.1099(2) 0.9612(9) 0.7636(6) 0.00000 1.00000 Uiso C
+C29 0.1306(2) 0.9608(7) 0.7643(8) 0.00000 1.00000 Uiso C
+C31 0.0301(7) 0.2199(7) 0.8987(3) 0.00000 1.00000 Uiso C
+C32 0.0331(11) 0.2169(11) 0.9195(4) 0.00000 1.00000 Uiso C
+C33 0.1406(3) 0.9971(8) 0.8027(7) 0.00000 1.00000 Uiso C
+
+
+# Note: if the displacement parameters were refined anisotropically
+# the U matrices should be given as for single-crystal studies.
+
+
+

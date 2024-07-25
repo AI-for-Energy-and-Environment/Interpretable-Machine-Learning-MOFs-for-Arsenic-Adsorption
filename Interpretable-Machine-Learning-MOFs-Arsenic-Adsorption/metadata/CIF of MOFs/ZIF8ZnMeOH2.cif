@@ -1,0 +1,365 @@
+####################################################################### 
+# 
+# This file contains crystal structure data downloaded from the 
+# Cambridge Structural Database (CSD) hosted by the Cambridge 
+# Crystallographic Data Centre (CCDC).
+# 
+# Full information about CCDC data access policies and citation 
+# guidelines are available at http://www.ccdc.cam.ac.uk/access/V1 
+# 
+# Audit and citation data items may have been added by the CCDC. 
+# Please retain this information to preserve the provenance of 
+# this file and to allow appropriate attribution of the data. 
+# 
+#######################################################################
+
+data_zf8000
+_audit_block_doi                 10.5517/ccst4xm
+_database_code_depnum_ccdc_archive 'CCDC 739161'
+loop_
+_citation_id
+_citation_doi
+_citation_year
+1 10.1002/anie.200902643 2009
+_audit_update_record             
+;
+2009-07-06 deposited with the CCDC.	2023-06-22 downloaded from the CCDC.
+;
+_audit_creation_date             09-04-28
+_audit_creation_method           CRYSTALS_ver_12.86
+
+_chemical_name_systematic        ?
+_chemical_melting_point          ?
+
+
+#end of refcif
+_cell_length_a                   16.9856(16)
+_cell_length_b                   16.9856(16)
+_cell_length_c                   16.9856(16)
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_volume                     4900.5(8)
+
+_symmetry_cell_setting           Cubic
+_symmetry_space_group_name_H-M   'I -4 3 m '
+_symmetry_space_group_name_Hall  ?
+loop_
+_symmetry_equiv_pos_as_xyz
+x,y,z
+x+1/2,y+1/2,z+1/2
+y,z,x
+y+1/2,z+1/2,x+1/2
+z,x,y
+z+1/2,x+1/2,y+1/2
+y,-x,-z
+y+1/2,-x+1/2,-z+1/2
+z,-y,-x
+z+1/2,-y+1/2,-x+1/2
+x,-z,-y
+x+1/2,-z+1/2,-y+1/2
+-x,-y,z
+-x+1/2,-y+1/2,z+1/2
+-z,x,-y
+-z+1/2,x+1/2,-y+1/2
+-x,y,-z
+-x+1/2,y+1/2,-z+1/2
+-y,-z,x
+-y+1/2,-z+1/2,x+1/2
+-z,-x,y
+-z+1/2,-x+1/2,y+1/2
+-y,x,-z
+-y+1/2,x+1/2,-z+1/2
+-z,y,-x
+-z+1/2,y+1/2,-x+1/2
+-x,z,-y
+-x+1/2,z+1/2,-y+1/2
+-y,z,-x
+-y+1/2,z+1/2,-x+1/2
+z,y,x
+z+1/2,y+1/2,x+1/2
+x,z,y
+x+1/2,z+1/2,y+1/2
+y,x,z
+y+1/2,x+1/2,z+1/2
+y,-z,-x
+y+1/2,-z+1/2,-x+1/2
+-y,-x,z
+-y+1/2,-x+1/2,z+1/2
+-z,-y,x
+-z+1/2,-y+1/2,x+1/2
+-x,-z,y
+-x+1/2,-z+1/2,y+1/2
+x,-y,-z
+x+1/2,-y+1/2,-z+1/2
+z,-x,-y
+z+1/2,-x+1/2,-y+1/2
+
+loop_
+_atom_type_symbol
+_atom_type_scat_dispersion_real
+_atom_type_scat_dispersion_imag
+_atom_type_scat_Cromer_Mann_a1
+_atom_type_scat_Cromer_Mann_b1
+_atom_type_scat_Cromer_Mann_a2
+_atom_type_scat_Cromer_Mann_b2
+_atom_type_scat_Cromer_Mann_a3
+_atom_type_scat_Cromer_Mann_b3
+_atom_type_scat_Cromer_Mann_a4
+_atom_type_scat_Cromer_Mann_b4
+_atom_type_scat_Cromer_Mann_c
+_atom_type_scat_source
+C 0.0033 0.0016 2.3100 20.8439 1.0200 10.2075 1.5886 0.5687 0.8650 51.6512
+0.2156 'International Tables Vol C 4.2.6.8 and 6.1.1.4'
+H 0.0000 0.0000 0.4930 10.5109 0.3229 26.1257 0.1402 3.1424 0.0408 57.7998
+0.0030 'International Tables Vol C 4.2.6.8 and 6.1.1.4'
+N 0.0061 0.0033 12.2126 0.0057 3.1322 9.8933 2.0125 28.9975 1.1663 0.5826
+-11.5290 'International Tables Vol C 4.2.6.8 and 6.1.1.4'
+Zn 0.2839 1.4301 14.0743 3.2655 7.0318 0.2333 5.1652 10.3163 2.4100 58.7097
+1.3041 'International Tables Vol C 4.2.6.8 and 6.1.1.4'
+
+
+_cell_formula_units_Z            12
+
+# Given Formula = C9 H14 N4 O1 Zn1
+# Dc = 1.06 Fooo = 1272.00 Mu = 14.90 M = 64.90
+# Found Formula = C8 N4 Zn1
+# Dc = 0.88 FOOO = 1272.00 Mu = 14.77 M = 54.37
+
+_chemical_formula_sum            'C9 H14 N4 O1 Zn1 '
+_chemical_formula_moiety         '(C8 H14 N4 Zn)n, 1.0n(CH3OH)'
+_chemical_compound_source        ?
+_chemical_formula_weight         259.62
+
+
+_cell_measurement_reflns_used    2237
+_cell_measurement_theta_min      2
+_cell_measurement_theta_max      22
+_cell_measurement_temperature    293
+
+_exptl_crystal_description       block
+_exptl_crystal_colour            colourless
+_exptl_crystal_size_min          0.10
+_exptl_crystal_size_mid          0.20
+_exptl_crystal_size_max          0.20
+
+_exptl_crystal_density_diffrn    1.056
+_exptl_crystal_density_meas      ?
+_exptl_crystal_density_method    'not measured'
+# Non-dispersive F(000):
+_exptl_crystal_F_000             1608
+_exptl_absorpt_coefficient_mu    1.49
+
+# Sheldrick geometric approximatio 0.74 0.86
+_exptl_absorpt_correction_type   multi-scan
+_exptl_absorpt_process_details   'SADABS (Siemens, 1996)'
+_exptl_absorpt_correction_T_min  0.78
+_exptl_absorpt_correction_T_max  0.86
+_diffrn_measurement_device       'Bruker Kappa Apex2'
+_diffrn_measurement_device_type  Area
+_diffrn_radiation_monochromator  graphite
+_diffrn_radiation_type           'Mo K\a'
+_diffrn_radiation_wavelength     0.71073
+_diffrn_measurement_method       \w
+
+# If a reference occurs more than once, delete the author
+# and date from subsequent references.
+_computing_data_collection       'Apex2 (Bruker AXS, 2006)'
+_computing_cell_refinement       'Apex2 (Bruker AXS, 2006)'
+_computing_data_reduction        'Apex2 (Bruker AXS, 2006)'
+_computing_structure_solution    'SHELXS 86 (Sheldrick, 1986)'
+_computing_structure_refinement  'CRYSTALS (Betteridge et al., 2003)'
+_computing_publication_material  'CRYSTALS (Betteridge et al., 2003)'
+_computing_molecular_graphics    'CAMERON (Watkin et al., 1996)'
+
+_diffrn_standards_interval_time  .
+_diffrn_standards_interval_count .
+_diffrn_standards_number         0
+_diffrn_standards_decay_%        ?
+
+_diffrn_ambient_temperature      293
+_diffrn_reflns_number            974
+_reflns_number_total             974
+_diffrn_reflns_av_R_equivalents  0.045
+# Number of reflections with Friedels Law is 538
+# Number of reflections without Friedels Law is 974
+# Theoretical number of reflections is about 419
+
+
+_diffrn_reflns_theta_min         1.695
+_diffrn_reflns_theta_max         26.410
+_diffrn_measured_fraction_theta_max 1.000
+
+_diffrn_reflns_theta_full        26.410
+_diffrn_measured_fraction_theta_full 1.000
+
+
+_diffrn_reflns_limit_h_min       -12
+_diffrn_reflns_limit_h_max       12
+_diffrn_reflns_limit_k_min       0
+_diffrn_reflns_limit_k_max       15
+_diffrn_reflns_limit_l_min       1
+_diffrn_reflns_limit_l_max       21
+_reflns_limit_h_min              -12
+_reflns_limit_h_max              12
+_reflns_limit_k_min              0
+_reflns_limit_k_max              15
+_reflns_limit_l_min              1
+_reflns_limit_l_max              21
+
+_oxford_diffrn_Wilson_B_factor   3.86
+_oxford_diffrn_Wilson_scale      349.16
+
+_atom_sites_solution_primary     direct #heavy,direct,difmap,geom
+# _atom_sites_solution_secondary difmap
+_atom_sites_solution_hydrogens   geom
+
+_refine_diff_density_min         -0.23
+_refine_diff_density_max         0.29
+
+
+# The current dictionary definitions do not cover the
+# situation where the reflections used for refinement were
+# selected by a user-defined sigma threshold
+
+
+# The values actually used during refinement
+_oxford_reflns_threshold_expression_ref I>-10.0\s(I)
+_refine_ls_number_reflns         974
+_refine_ls_number_restraints     0
+_refine_ls_number_parameters     34
+_oxford_refine_ls_R_factor_ref   0.0360
+_refine_ls_wR_factor_ref         0.0660
+_refine_ls_goodness_of_fit_ref   0.8850
+_refine_ls_shift/su_max          0.000210
+
+
+# The values computed from all data
+_oxford_reflns_number_all        974
+_refine_ls_R_factor_all          0.0360
+_refine_ls_wR_factor_all         0.0660
+
+# The values computed with a 2 sigma cutoff - a la SHELX
+_reflns_threshold_expression     I>2.0\s(I)
+_reflns_number_gt                765
+_refine_ls_R_factor_gt           0.0266
+_refine_ls_wR_factor_gt          0.0631
+
+_refine_ls_abs_structure_Flack   0.82(3)
+_refine_ls_abs_structure_details 'Flack (1983), 436 Friedel-pairs'
+# choose from: rm (reference molecule of known chirality),
+# ad (anomolous dispersion - Flack), rmad (rm and ad),
+# syn (from synthesis), unk (unknown) or . (not applicable).
+_chemical_absolute_configuration ad
+
+
+_refine_ls_structure_factor_coef Fsqd
+_refine_ls_matrix_type           full
+_refine_ls_hydrogen_treatment    noref # none, undef, noref, refall,
+# refxyz, refU, constr or mixed
+_refine_ls_weighting_scheme      calc
+_refine_ls_weighting_details     
+;
+Method= Modified Sheldrick
+w=1/[\s^2^(F^2^) + ( 0.04P)^2^ + 3.04P]
+,where P=(max(Fo^2^,0) + 2Fc^2^)/3
+;
+
+# Uequiv = arithmetic mean of Ui i.e. Ueqiv = (U1+U2+U3)/3
+
+# Replace last . with number of unfound hydrogen atomsattached to an atom.
+
+# ..._refinement_flags_...
+# . no refinement constraints S special position constraint on site
+# G rigid group refinement of site R riding atom
+# D distance or angle restraint on site T thermal displacement constraints
+# U Uiso or Uij restraint (rigid bond) P partial occupancy constraint
+
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+_atom_site_adp_type
+_atom_site_refinement_flags_posn
+_atom_site_refinement_flags_adp
+_atom_site_refinement_flags_occupancy
+_atom_site_disorder_assembly
+_atom_site_disorder_group
+_oxford_atom_site_special_shape
+_atom_site_attached_hydrogens
+C1 C 0.37698(12) 0.0076(4) 0.62302(12) 0.0511 1.0000 Uani S T . . . . .
+C2 C 0.36906(18) -0.10159(16) 0.68667(19) 0.0722 1.0000 Uani . . . . . . .
+C3 C 0.4053(2) 0.0857(3) 0.5947(2) 0.0772 1.0000 Uani S T . . . . .
+N1 N 0.41000(13) -0.03202(12) 0.68272(12) 0.0562 1.0000 Uani . . . . . . .
+Zn1 Zn 0.5000 0.0000 0.7500 0.0536 1.0000 Uani S T . . . . .
+H1 H 0.3785 -0.1421 0.7222 0.0866 1.0000 Uiso . . . . . . .
+H3 H 0.4447 0.0779 0.5553 0.0925 1.0000 Uiso . . . . . . .
+H2 H 0.3628 0.1147 0.5723 0.0925 1.0000 Uiso . . . . . . .
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_23
+_atom_site_aniso_U_13
+_atom_site_aniso_U_12
+C1 0.0544(10) 0.045(2) 0.0544(10) 0.0004(15) 0.0021(13) -0.0004(15)
+C2 0.081(2) 0.0592(17) 0.077(2) 0.0224(15) -0.0162(15) -0.0127(15)
+C3 0.0832(18) 0.065(3) 0.0832(18) 0.0179(18) -0.018(3) -0.0179(18)
+N1 0.0594(13) 0.0557(13) 0.0535(12) 0.0059(9) -0.0067(10) -0.0030(10)
+Zn1 0.0556(2) 0.0556(2) 0.0496(3) 0.0000 0.0000 0.0000
+
+_refine_ls_extinction_method     None
+_oxford_refine_ls_scale          0.07628(2)
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_site_symmetry_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_2
+_geom_bond_distance
+_geom_bond_publ_flag
+C1 . N1 25_656 1.340(3) yes
+C1 . C3 . 1.491(7) yes
+C1 . N1 . 1.340(3) yes
+C2 . C2 25_656 1.339(6) yes
+C2 . N1 . 1.373(3) yes
+C2 . H1 . 0.930 no
+C3 . H2 25_656 0.953 no
+C3 . H3 . 0.955 no
+C3 . H2 . 0.953 no
+N1 . Zn1 . 1.985(2) yes
+loop_
+_geom_angle_atom_site_label_1
+_geom_angle_site_symmetry_1
+_geom_angle_atom_site_label_2
+_geom_angle_site_symmetry_2
+_geom_angle_atom_site_label_3
+_geom_angle_site_symmetry_3
+_geom_angle
+_geom_angle_publ_flag
+N1 25_656 C1 . C3 . 123.8(2) yes
+N1 25_656 C1 . N1 . 112.4(4) yes
+C3 . C1 . N1 . 123.8(2) yes
+C2 25_656 C2 . N1 . 108.88(15) yes
+C2 25_656 C2 . H1 . 125.5 no
+N1 . C2 . H1 . 125.6 no
+C1 . C3 . H2 25_656 110.1 no
+C1 . C3 . H3 . 109.2 no
+H2 25_656 C3 . H3 . 108.8 no
+C1 . C3 . H2 . 110.1 no
+H2 25_656 C3 . H2 . 109.7 no
+H3 . C3 . H2 . 108.8 no
+C2 . N1 . C1 . 104.9(3) yes
+C2 . N1 . Zn1 . 126.72(18) yes
+C1 . N1 . Zn1 . 128.3(2) yes
+N1 24_546 Zn1 . N1 8_556 109.68(13) yes
+N1 24_546 Zn1 . N1 13_655 109.37(6) yes
+N1 8_556 Zn1 . N1 13_655 109.37(6) yes
+N1 24_546 Zn1 . N1 . 109.37(6) yes
+N1 8_556 Zn1 . N1 . 109.37(6) yes
+N1 13_655 Zn1 . N1 . 109.68(13) yes

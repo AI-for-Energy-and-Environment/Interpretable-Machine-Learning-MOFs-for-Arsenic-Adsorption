@@ -1,0 +1,174 @@
+####################################################################### 
+# 
+# This file contains crystal structure data downloaded from the 
+# Cambridge Structural Database (CSD) hosted by the Cambridge 
+# Crystallographic Data Centre (CCDC).
+# 
+# Full information about CCDC data access policies and citation 
+# guidelines are available at http://www.ccdc.cam.ac.uk/access/V1 
+# 
+# Audit and citation data items may have been added by the CCDC. 
+# Please retain this information to preserve the provenance of 
+# this file and to allow appropriate attribution of the data. 
+# 
+#######################################################################
+
+data_GOR027_phase_1
+_audit_block_doi                 10.5517/cc12t1fc
+_database_code_depnum_ccdc_archive 'CCDC 1007172'
+loop_
+_citation_id
+_citation_doi
+_citation_year
+1 10.1021/jp505893s 2014
+_audit_update_record             
+;
+2014-06-06 deposited with the CCDC.	2023-07-01 downloaded from the CCDC.
+;
+
+_pd_block_id                     
+2013-11-12T11:32|GOR027_phase1|Jean-Louis_Paillaud||
+
+#==============================================================================
+# 7. CHEMICAL, STRUCTURAL AND CRYSTAL DATA
+
+_pd_char_particle_morphology     ?
+
+_chemical_name_systematic        
+; ?
+;
+_chemical_name_common            ?
+_chemical_formula_moiety         ?
+_chemical_formula_structural     ?
+_chemical_formula_analytical     ?
+_chemical_melting_point          ?
+_chemical_compound_source        ? # for minerals and
+# natural products
+_symmetry_space_group_name_Hall  ?
+
+_exptl_crystal_F_000             ?
+_exptl_crystal_density_diffrn    ?
+_exptl_crystal_density_meas      ?
+_exptl_crystal_density_method    ?
+
+_cell_measurement_temperature    ?
+
+_cell_special_details            
+; ?
+;
+
+_geom_special_details            ?
+
+# The following item identifies the program(s) used (if appropriate).
+_computing_structure_solution    ?
+
+#==============================================================================
+
+# 8. Phase information from GSAS
+
+_pd_phase_name                   Al(OH)[O2CC6H4CO2].H2O
+_cell_length_a                   19.50417(25)
+_cell_length_b                   15.20143(13)
+_cell_length_c                   6.56931(9)
+_cell_angle_alpha                90.0
+_cell_angle_beta                 104.1797(13)
+_cell_angle_gamma                90.0
+_cell_volume                     1888.399(29)
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_H-M   'P 21/c'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 +x,+y,+z
+2 -x,+y+1/2,-z+1/2
+-1 -x,-y,-z
+-2 +x,-y+1/2,+z+1/2
+
+# ATOMIC COORDINATES AND DISPLACEMENT PARAMETERS
+
+
+loop_
+_atom_site_type_symbol
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_thermal_displace_type
+_atom_site_U_iso_or_equiv
+_atom_site_symmetry_multiplicity
+Al Al1 0.5003(5) 0.2437(7) 0.5108(15) 1.0 Uiso 0.0238(6) 4
+Al Al2 0.0 0.5 0.0 1.0 Uiso 0.0238(6) 2
+Al Al3 0.0 0.5 0.5 1.0 Uiso 0.0238(6) 2
+O Oh1 0.4999(10) 0.3025(12) 0.2651(26) 1.0 Uiso 0.0139(13) 4
+O Oh2 -0.0044(10) 0.5521(12) 0.2384(20) 1.0 Uiso 0.0139(13) 4
+O O11 0.9159(7) 0.0696(5) 0.8722(21) 1.0 Uiso 0.0323(4) 4
+O O12 0.9355(7) 0.0890(5) 0.5493(21) 1.0 Uiso 0.0323(4) 4
+O O13 0.5573(7) 0.1589(5) 0.4451(21) 1.0 Uiso 0.0323(4) 4
+O O14 0.5825(8) 0.1848(5) 0.1410(20) 1.0 Uiso 0.0323(4) 4
+C C11 0.8198(6) 0.10662(25) 0.5895(22) 1.0 Uiso 0.0323(4) 4
+C C12 0.7727(7) 0.10664(26) 0.7154(22) 1.0 Uiso 0.0323(4) 4
+C C13 0.7007(6) 0.12479(27) 0.6281(23) 1.0 Uiso 0.0323(4) 4
+C C14 0.6757(6) 0.14239(25) 0.4176(22) 1.0 Uiso 0.0323(4) 4
+C C15 0.7230(7) 0.14221(27) 0.2936(22) 1.0 Uiso 0.0323(4) 4
+C C16 0.7948(6) 0.12424(27) 0.3811(23) 1.0 Uiso 0.0323(4) 4
+C C17 0.8954(5) 0.08731(22) 0.6750(20) 1.0 Uiso 0.0323(4) 4
+C C18 0.6009(5) 0.16242(24) 0.3301(19) 1.0 Uiso 0.0323(4) 4
+H H12 0.7895(10) 0.09399(33) 0.8651(27) 1.0 Uiso 0.0323(4) 4
+H H13 0.6672(9) 0.1251(4) 0.7186(30) 1.0 Uiso 0.0323(4) 4
+H H15 0.7062(10) 0.15493(33) 0.1444(26) 1.0 Uiso 0.0323(4) 4
+H H16 0.8283(9) 0.1239(4) 0.2914(31) 1.0 Uiso 0.0323(4) 4
+O O21 0.4141(8) 0.3064(5) 0.8665(19) 1.0 Uiso 0.0323(4) 4
+O O22 0.4424(7) 0.3466(5) 0.5672(20) 1.0 Uiso 0.0323(4) 4
+O O23 0.0632(6) 0.4169(4) 0.4568(20) 1.0 Uiso 0.0323(4) 4
+O O24 0.0861(7) 0.4297(4) 0.1401(19) 1.0 Uiso 0.0323(4) 4
+C C21 0.3237(6) 0.3571(4) 0.5896(21) 1.0 Uiso 0.0323(4) 4
+C C22 0.2750(7) 0.3444(4) 0.7067(21) 1.0 Uiso 0.0323(4) 4
+C C23 0.2028(7) 0.3636(4) 0.6220(20) 1.0 Uiso 0.0323(4) 4
+C C24 0.1799(6) 0.39517(32) 0.4214(19) 1.0 Uiso 0.0323(4) 4
+C C25 0.2287(7) 0.4083(4) 0.3019(20) 1.0 Uiso 0.0323(4) 4
+C C26 0.3010(7) 0.3890(4) 0.3875(22) 1.0 Uiso 0.0323(4) 4
+C C27 0.3985(6) 0.33603(31) 0.6785(18) 1.0 Uiso 0.0323(4) 4
+C C28 0.1048(5) 0.41529(23) 0.3356(17) 1.0 Uiso 0.0323(4) 4
+H H22 0.2908(10) 0.3217(4) 0.8491(25) 1.0 Uiso 0.0323(4) 4
+H H23 0.1681(9) 0.3545(5) 0.7066(28) 1.0 Uiso 0.0323(4) 4
+H H25 0.2127(11) 0.4310(4) 0.1592(24) 1.0 Uiso 0.0323(4) 4
+H H26 0.3361(10) 0.3979(5) 0.3033(29) 1.0 Uiso 0.0323(4) 4
+H H1 0.495(9) 0.3606(17) 0.279(11) 1.0 Uiso 0.0139(13) 4
+H H2 -0.007(9) 0.6102(17) 0.245(10) 1.0 Uiso 0.0139(13) 4
+
+loop_
+_atom_type_symbol
+_atom_type_number_in_cell
+O 48.0
+C 64.0
+H 56.0
+Al 8.0
+
+# If you change Z, be sure to change all 3 of the following
+_chemical_formula_sum            'C8 H7 Al O6'
+_chemical_formula_weight         226.12
+_cell_formula_units_Z            8
+
+# MOLECULAR GEOMETRY
+
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+_geom_bond_publ_flag
+? ? ? ? ? ?
+
+loop_
+_geom_angle_atom_site_label_1
+_geom_angle_atom_site_label_2
+_geom_angle_atom_site_label_3
+_geom_angle
+_geom_angle_site_symmetry_1
+_geom_angle_site_symmetry_2
+_geom_angle_site_symmetry_3
+_geom_angle_publ_flag
+? ? ? ? ? ? ? ?
+#--eof--eof--eof--eof--eof--eof--eof--eof--eof--eof--eof--eof--eof--eof--eof--#
