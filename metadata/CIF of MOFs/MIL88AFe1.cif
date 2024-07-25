@@ -1,0 +1,126 @@
+####################################################################### 
+# 
+# This file contains crystal structure data downloaded from the 
+# Cambridge Structural Database (CSD) hosted by the Cambridge 
+# Crystallographic Data Centre (CCDC).
+# 
+# Full information about CCDC data access policies and citation 
+# guidelines are available at http://www.ccdc.cam.ac.uk/access/V1 
+# 
+# Audit and citation data items may have been added by the CCDC. 
+# Please retain this information to preserve the provenance of 
+# this file and to allow appropriate attribution of the data. 
+# 
+#######################################################################
+
+data_MIL-88-H2O
+_audit_block_doi                 10.5517/ccpm4q4
+_database_code_depnum_ccdc_archive 'CCDC 644016'
+loop_
+_citation_id
+_citation_doi
+_citation_year
+1 10.1021/ja054900x 2005
+_audit_update_record             
+;
+2007-04-16 deposited with the CCDC.	2023-06-22 downloaded from the CCDC.
+;
+
+
+_chemical_name_systematic        
+;
+FeIII3O(H2O)3(-O2C-C2H2-CO2-)3.(-O2C-CH3).19H2O
+;
+_chemical_formula_weight         977.6
+_cell_length_a                   13.871(1)
+_cell_length_b                   13.871(1)
+_cell_length_c                   12.663(1)
+_cell_angle_alpha                90.000
+_cell_angle_beta                 90.000
+_cell_angle_gamma                120.000
+_cell_volume                     2110.0(2)
+_cell_formula_units_Z            2
+
+
+_symmetry_int_tables_number      190
+_symmetry_space_group_name_H-M   'P -6 2 c'
+_symmetry_space_group_name_Hall  P_-6c_-2c
+_diffrn_ambient_temperature      295
+
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+_atom_type_radius_bond
+Fe ? 1.200
+O ? 0.660
+C ? 0.860
+_exptl_special_details           
+;
+MIL-88-H2O. A powder sample of MIL-88-as was dispersed in water and introduced
+in a low-absorbing 1 mm diameter glass capillary. X-ray diffraction data were
+then obtained with a Compagnie G\'en\'erale de Radiologie powder diffractometer
+equipped locally with a rotating capillary system and a scintillation detector
+and using monochromatic Cu K1 radiation ( = 1.5406 \%A), obtained from an
+incident-beam quartz monochromator with asymmetric focusing (focal distances
+130 and 510 mm).
+The pattern was scanned over the angular range 5-50 (2) with a step length
+of 0.025 (2) and a counting time of 200 s step-1. After data collection,
+the stability of both the X-ray source and the sample was checked by
+recording again the diffraction lines at low angles. The structure
+refinement of MIL-88-H2O was performed using Fullprof2k18 and Winplotr.19
+Fourier differences were performed, using the SHELXTL97 program,20 to
+locate the oxygens of the water molecules in the pores.
+Crystal data for MIL-88-H2O show a hexagonal space group P-62c (No. 190)
+with a = 13.871(1) \%A, c = 12.663(1) \%A, and Z = 2 (see Supporting
+Information for more details)
+;
+_refine_special_details          
+;
+powder study
+Rp 0.02
+Rwp 0.03
+Rb 0.16
+Rf0.15
+;
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_attached_hydrogens
+_atom_site_calc_flag
+_atom_site_thermal_displace_type
+_atom_site_u_iso_or_equiv
+Fe1 Fe 0.7706 0.2866 0.2500 1.000 6 h ? d Uiso 0.00000
+O1 O 0.6667 0.3333 0.2500 1.000 2 d ? d Uiso 0.00000
+O2 O 0.5705 0.1919 0.1065 1.000 12 i ? d Uiso 0.00000
+O3 O 0.6932 0.1478 0.1356 1.000 12 i ? d Uiso 0.00000
+O4 O 0.9192 0.3046 0.2500 1.000 6 h ? d Uiso 0.00000
+C1 C 0.5934 0.1180 0.1113 1.000 12 i ? d Uiso 0.00000
+C2 C 0.5160 0.0088 0.0582 1.000 12 i ? d Uiso 0.00000
+O5 O 0.254 0.565 0.250 0.666 . . . . . .
+C3 C 0.497 -0.120 0.250 0.333 . . . . . .
+C4 C 0.238 0.645 0.250 0.333 . . . . . .
+
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+Fe1 O1 1.85(2)
+Fe1 O3 2.21(4)
+Fe1 O2 2.13(2)
+Fe1 O4 1.94(4)
+O2 C1 1.22(3)
+O3 C1 1.27(4)
+O5 C4 1.25(3)
+C1 C2 1.51(4)
+C2 C2 1.49(2)
+C3 C4 1.48(2)
+
+
+
