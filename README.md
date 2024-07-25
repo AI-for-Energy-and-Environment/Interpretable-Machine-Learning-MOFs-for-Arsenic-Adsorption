@@ -1,9 +1,7 @@
 # Interpretable-Machine-Learning-MOFs-Arsenic-Adsorption
 
 <div align="center">
-  <img src="https://github.com/lzhzzzzwill/Interpretable-Machine-Learning-MOFs-for-Arsenic-Adsorption/metadata/CIF of MOFs
-/toci.png
-">
+  <img src="https://github.com/lzhzzzzwill/Interpretable-Machine-Learning-MOFs-for-Arsenic-Adsorption/blob/main/metadata/CIF%20of%20MOFs/toci.png">
 </div>
 
 ## Environment requirements:
