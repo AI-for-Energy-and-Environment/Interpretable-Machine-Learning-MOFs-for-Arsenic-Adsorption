@@ -5,8 +5,8 @@
 </div>
 
 ## Environment requirements:
-### Python 3.8.16:
-Model construction
+### Python 3.8.19:
+Molecular fingerprint generation, model training, and interpretation
 ### R 4.2.1
 Visualization
 
@@ -16,21 +16,7 @@ The workflow for QSAR models construction and evaluation, applicability domain a
 ### viz.R:
 Visualization for workflow. (.OH as an example for all processes)
 
-## Software:
-### Vs code: 
-Code Editor for The workflow.ipynb
-### R studio:
-Code Editor for viz.R
-### Rdkit package:
-Calculation for Morgan and MACCS molecular fingerprints
-### PaDEL-Descriptor software:
-Calculation for CDK, Ext, Graph, Estate, Pub, Sub, SubC, KR, KRC, AP2D, and AP2DC  molecular fingerprints.
-### Scikit-learn package:
-Construction of models SVM, KNN, DT, RF, and GBDT. 
-### xgboost package:
-Construction of model XGB.
-### scikit-opt:
-Optimization of hyperparameter.
-### shap package:
-Interpretation of models.
+## package:
+### requirement.txt
+Use pip install -r requirements.txt to configure the environment 
 
