@@ -11,10 +11,12 @@ Molecular fingerprint generation, model training, and interpretation
 Visualization
 
 ## Code files:
-### The workflow.ipynb:
-The workflow for QSAR models construction and evaluation, applicability domain and model interpretation. Visualization for model interpretation. (.OH as an example for all processes)
-### viz.R:
-Visualization for workflow. (.OH as an example for all processes)
+### .ipynb:
+The .ipynb file was uesed to interpret and visualize the models. 
+### .py:
+The .py files were used to generate the molecular fingerprints and training the predictive models.
+### .R:
+The .R files were used to visualize the data.
 
 ## package:
 ### requirement.txt
