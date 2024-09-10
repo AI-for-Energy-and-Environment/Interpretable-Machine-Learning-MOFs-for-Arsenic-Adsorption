@@ -1,7 +1,5 @@
 # Interpretable-Machine-Learning-MOFs-Arsenic-Adsorption
 
-## This repository contains the data and scripts involved in the publication:
-[Enhancing arsenate removal through interpretable machine learning guiding the modular design of metal–organic frameworks](https://www.sciencedirect.com/science/article/pii/S1385894724065495#f0030)
 <div align="center">
   <img src="https://github.com/lzhzzzzwill/Interpretable-Machine-Learning-MOFs-for-Arsenic-Adsorption/blob/main/metadata/CIF%20of%20MOFs/toci.png">
 </div>
@@ -24,3 +22,8 @@ The .R files were used to visualize the data.
 ### requirement.txt
 Use pip install -r requirements.txt to configure the environment 
 
+
+## Citing:
+If you use the dataset or any trained models in your work, please cite the following article-
+
+[Z. Lin, H. Cai, H. Peng, Y. Fang, P. Pan, H. Li, Y. Yang and J. Yao, Enhancing arsenate removal through interpretable machine learning guiding the modular design of metal–organic frameworks. *Chemical Engineering Journal* 2024.](https://www.sciencedirect.com/science/article/pii/S1385894724065495#f0030)
